@@ -1,3 +1,4 @@
+<br><br/>
 **[GIF SEARCHER APP](https://wspp2pp.github.io/gif-searcher-app/)**
 <br><br/>
 
