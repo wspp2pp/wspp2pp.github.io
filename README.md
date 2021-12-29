@@ -1,4 +1,6 @@
-**Gif Searcher App**
+
+# **Gif Searcher App**
+
 
 Some of the technologies used:
 
@@ -6,4 +8,5 @@ Some of the technologies used:
 - Boostrap
 - Rest API
 
+**[Look at the project!](https://wspp2pp.github.io/gif-searcher-app/)**
 
