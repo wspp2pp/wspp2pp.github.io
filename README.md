@@ -1,3 +1,3 @@
-## Gif Searcher App
+**Gif Searcher App**
 
 
