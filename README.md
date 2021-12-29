@@ -1,5 +1,5 @@
 <br><br/>
-<h1>**[GIF SEARCHER APP](https://wspp2pp.github.io/gif-searcher-app/)**<h1/>
+**[GIF SEARCHER APP](https://wspp2pp.github.io/gif-searcher-app/)**
 <br><br/>
 
 Some of the technologies used:
