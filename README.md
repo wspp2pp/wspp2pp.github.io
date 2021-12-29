@@ -1,5 +1,5 @@
 
-# **Gif Searcher App**
+**Gif Searcher App**
 
 
 Some of the technologies used:
