@@ -3,5 +3,6 @@
 Some of the technologies used:
 
 - Javascript
+- HTML
 - Boostrap
 - Rest API
