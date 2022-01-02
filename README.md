@@ -6,3 +6,13 @@ Some of the technologies used:
 - HTML
 - Boostrap
 - Rest API
+
+**[HEROES APP](https://wspp2pp.github.io/heroes-app/)** - [Look at the code!](https://github.com/wspp2pp/heroes-app/)
+
+Some of the technologies used:
+
+- Javascript
+- HTML
+- Animate.css
+- Boostrap
+- React Router V6
